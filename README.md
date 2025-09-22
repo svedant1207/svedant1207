@@ -33,7 +33,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant1207&show_icons=true&theme=radical)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=svedant1207&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10&card_width=325" alt="umangahuja1" /></p>
 
 ---
 
