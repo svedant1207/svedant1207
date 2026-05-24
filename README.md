@@ -31,15 +31,10 @@
 ---
 
 
-## 🌟 Notable Experiences
+## 🌟 Experiences
 - **Software Development Intern @ Mapit.ai (2025)** – Built secure user registration & optimized database models.  
 - **Machine Learning Intern @ IIT Varanasi (2025)** – Developed fuzzy logic decision support systems for green logistics.  
 - **Web Development Intern @ Lise Infotech (2024)** – Created responsive UIs and GraphQL-powered APIs.  
-
----
-
-## 📂 Projects
-- **Rentomatic Property Management** – React-based pricing page with Figma-designed UI and real-time data integration.  
 
 ---
 
