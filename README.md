@@ -5,7 +5,7 @@
 - 💻 Passionate about **Software Development, Machine Learning, and Web Development**  
 - 🌱 Currently exploring **Generative AI, AI-driven systems, and advanced web technologies**  
 - 👯 Open to collaborating on **AI, Data Science, and Full-Stack projects**  
-- ⚡ Fun fact: I love building solutions that make everyday processes smarter and faster!  
+- ⚡ Fun fact: I love and i'm learning to build solutions that make everyday processes smarter and faster!  
 
 ---
 
